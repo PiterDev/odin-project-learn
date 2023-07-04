@@ -1,0 +1,28 @@
+body {
+    /* Completely original css here */
+    font-family: Inter, Helvetica Neue, Helvetica, Arial,sans-serif;
+    /* Possibly stolen from github.com/Zachtreis/bettermotherfuckingwebsite */
+    color: #444;
+    background-color: #EEE;
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6em;
+    font-size: 18px;
+    padding: 0;
+}
+
+
+.inline-block {
+    display: inline-block;
+}
+
+.dog {
+    width: 200px;
+}
+
+ul.recipe-list {
+    padding: 1rem;
+    vertical-align: top;
+    border: dashed darkkhaki;
+    list-style-type: none;
+}
